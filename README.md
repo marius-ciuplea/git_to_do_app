@@ -1,20 +1,16 @@
-# 📌 To Do App (Python Console)
+📌 To Do App (Python Console)
+🔹 Description
+This application is a simple "To Do List" built in Python, running in the console. It allows the user to add, view, and delete tasks from the activity list.
 
-## 🔹 Descriere  
-Această aplicație este un simplu "To Do List" construită în Python, care rulează în consolă. Permite utilizatorului să adauge, 
-să vizualizeze și să ștergă sarcini din lista de activități.
-
-## 🛠️ Tehnologii folosite  
-- Python  
-
-## 🚀 Funcționalități  
-- ✅ Adăugarea de sarcini noi  
-- ✅ Vizualizarea listei de sarcini  
-- ✅ Ștergerea sarcinilor finalizate
-- ✅ Marcare sarcini completate cu simbolul ✅  
-- ✅ Stocarea datelor într-un fișier pentru persistență  
-
-## 📷 Capturi de ecran  
+🛠️ Technologies Used
+Python
+🚀 Features
+✅ Add new tasks
+✅ View the task list
+✅ Delete completed tasks
+✅ Mark completed tasks with the ✅ symbol
+✅ Store data in a file for persistence
+📷 Screenshots
 1. Add task
 ![image](https://github.com/user-attachments/assets/7157ef40-736d-4803-9de9-40f3fd708e14)
 
@@ -30,16 +26,16 @@ să vizualizeze și să ștergă sarcini din lista de activități.
 
 
 
-## 📦 Instalare și rulare  
-1. Clonează repository-ul:  
+## 📦  Installation and Running
+Clone the repository:
    ```bash
    git clone https://github.com/user/to-do-app.git
    cd to-do-app
    ```
-2. Rulează aplicația:
+2. Run the app:
    ```bash
    python todo_app.py
    ```
 
-## 👤 Autor  
+## 👤 Author 
 - **marius-ciuplea** - [GitHub](https://github.com/marius-ciuplea)
