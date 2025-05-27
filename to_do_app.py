@@ -33,7 +33,7 @@ def mark_done(task_number):
 	tasks = load_tasks()
 
 	if 1 <= task_number <= len(tasks):  # Validate task number
-		task = tasks[task_number - 1] # avem nevoie sa facem -1 ca sa ajungem la index-ul specificat de user
+		task = tasks[task_number - 1]
 
 		if task["done"]:
 			print(f"Task '{task['task']}' is already marked as done.")
